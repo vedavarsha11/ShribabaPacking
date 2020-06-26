@@ -1,0 +1,177 @@
+#header{
+background-color: #71c9ce;
+
+}
+
+#products{
+  background-color: #cbf1f5;
+  text-align: center;
+}
+#testimonials{
+  background-color: #cbf1f5;
+}
+#footer{
+  text-align: center;
+}
+#header h1{
+  font-family: "Oswald";
+  color:#e3fdfd;
+
+
+}
+#header h2{
+  font-family: "Oswald";
+  color:#e3fdfd;
+
+}
+ #why-us h2{
+  color: #71c9ce
+}
+#products h2{
+  font-family: "Oswald";
+  color:#71c9ce;
+}
+#can-also h2{
+  font-family: "Oswald";
+  color:#71c9ce;
+  padding-top: 1% ;
+  padding-bottom: 10%;
+}
+#can-also{
+  text-align: center;
+  position: relative;
+  padding: 7% 15%;
+}
+#carouselExampleControls{
+  padding: 10%;
+}
+#carouselExampleControls1{
+  padding: 10%;
+}
+#carouselExampleControls2{
+  padding:  10%;
+}
+.heading-contact{
+  font-family: "Oswald";
+  color:#71c9ce;
+  padding-top:3% ;
+  padding-bottom: 10%%;
+}
+.icon{
+ margin-bottom: 10%;
+  color: #71c9ce;
+}
+.icon:hover{
+  color:#3797a4;
+}
+.navbar-brand{
+  font-family: "Oswald";
+  font-size:300px;
+  font-weight: bold;
+
+}
+.navbar{
+margin-right: 200px;
+}
+.text{
+  padding-top: 100px;
+}
+.image{
+  padding-top: 100px;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.quote1{
+margin-left: 50px;
+}
+img{
+  padding-left: 100px;
+}
+.name{
+  font-family: "Oswald";
+  font-weight: bolder;
+  color:#e3fdfd;
+  letter-spacing: 5px;
+  margin-left: 50px;
+  font-size: 4rem;
+}
+.phno{
+  font-weight: bolder;
+}
+.container-fluid{
+  padding:5% 28% 7%;
+  margin-left: 50px ;
+}
+.whyus-text{
+  color: #71c9ce;
+  font-family: "Oswald";
+  font-size: 3rem;
+
+}
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #71c9ce;
+  color:#fff;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.contact{
+  text-align: center;
+  position: relative;
+  padding: 5% 10%;
+}
+#why-us {
+  padding: 7% 15%;
+  position: relative;
+  text-align: center;
+}
+.content{
+  padding: 10%;
+  text-align: center;
+  background-color: #e3fdfd;
+}
+.content-product{
+  text-align: center;
+  background-color: #e3fdfd;
+
+}
+.phn-icon{
+  margin-right: 10%;
+}
+.phno{
+  margin-left: 10%
+}
+.mail{
+font-size: 15px;
+color: #71c9ce;
+}
+.phone-mail{
+  text-align: center;
+  margin-right:10%;
+  margin-left:5%;
+  color: #71c9ce;
+}
+#contact {
+
+  text-align: center;
+  position: relative;
+  padding: 7% 15%;
+}
+#contact h2{
+  font-family: "Oswald";
+  color:#71c9ce;
+  padding-top: 1% ;
+  padding-bottom: 10%;
+}
+p{
+  font-size: 30px;
+  color: #71c9ce;
+}
